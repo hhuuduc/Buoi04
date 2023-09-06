@@ -41,5 +41,9 @@ namespace Bai07
         public ToaDo()
         { }
 
+        public override string ToString()
+        {
+            return Ten + "(" + X + ", " + Y + ")";
+        }
     }
 }
