@@ -1,0 +1,6 @@
+E:\LuuDuLieuSinhVien\2001207422_HuynhHuuDuc\HuynhHuuDuc_Buoi04\Bai10\bin\Debug\Bai10.exe.config
+E:\LuuDuLieuSinhVien\2001207422_HuynhHuuDuc\HuynhHuuDuc_Buoi04\Bai10\bin\Debug\Bai10.exe
+E:\LuuDuLieuSinhVien\2001207422_HuynhHuuDuc\HuynhHuuDuc_Buoi04\Bai10\bin\Debug\Bai10.pdb
+E:\LuuDuLieuSinhVien\2001207422_HuynhHuuDuc\HuynhHuuDuc_Buoi04\Bai10\obj\Debug\Bai10.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSinhVien\2001207422_HuynhHuuDuc\HuynhHuuDuc_Buoi04\Bai10\obj\Debug\Bai10.exe
+E:\LuuDuLieuSinhVien\2001207422_HuynhHuuDuc\HuynhHuuDuc_Buoi04\Bai10\obj\Debug\Bai10.pdb

@@ -32,12 +32,12 @@ namespace Bai07
 
         public HinhTron() { }
 
-        public double tinhDienTich()
+        public double TinhDienTich()
         {
             return BanKinh * BanKinh * 3.14;
         }
 
-        public double tinhChuVi()
+        public double TinhChuVi()
         {
             return BanKinh * 2 * 3.14;
         }
