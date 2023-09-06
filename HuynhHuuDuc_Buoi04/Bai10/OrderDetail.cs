@@ -35,7 +35,6 @@ namespace Bai10
             return Quatity * Product.Price;
         }
 
-        public OrderDetail() { }
 
     }
 }
