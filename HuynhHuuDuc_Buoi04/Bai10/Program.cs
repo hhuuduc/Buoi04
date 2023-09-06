@@ -18,6 +18,13 @@ namespace Bai10
 
             Order or = new Order(1, new DateTime(2015, 09, 10), lineItems);
             or.ShowOrder();
+
+            //Order or1 = new Order();
+            //or1.AddLineItem(new Product("Nước tương", "sp4", 8000), 10);
+            //or1.AddLineItem(new Product("Gạo", "sp1", 18000), 5);
+            //or1.AddLineItem(new Product("Đường", "sp3", 10000), 1);
+            //or1.AddLineItem(new Product("Gạo", "sp1", 18000), 1);
+            //or1.ShowOrder();
             Console.ReadLine();
         }
     }

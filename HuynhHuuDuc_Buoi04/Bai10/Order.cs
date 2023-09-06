@@ -32,10 +32,10 @@ namespace Bai10
             set { _lineItems = value; }
         }
 
-        public void AddLineItem(Product p, int x)
-        {
-            LineItems.Add(new OrderDetail(p, x));
-        }
+        //public void AddLineItem(Product p, int x)
+        //{
+        //    LineItems.Add(new OrderDetail(p, x));
+        //}
 
         public Order(int orderID, DateTime orderDate, List<OrderDetail> list)
         {
@@ -68,7 +68,11 @@ namespace Bai10
             Console.WriteLine("Tổng tiền thanh toán: {0} VNĐ", CalcTotalCharge());
         }
 
-
+        //public Order()
+        //{
+        //    this.OrderID = 1;
+        //    this.OrderDate = new DateTime(2015, 09, 10);
+        //}
 
     }
 }
